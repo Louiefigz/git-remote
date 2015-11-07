@@ -1,0 +1,1 @@
+This is my first time creating a local directory and then pusing it to github. 
